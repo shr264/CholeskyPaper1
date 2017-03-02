@@ -1,0 +1,2 @@
+"algo1time" "algo1norm" "ipftime" "ipfnorm"
+"elapsed" 6.42900000000009 0.140811943039168 151.04 15.8855484397124
